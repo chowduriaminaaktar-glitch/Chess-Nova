@@ -1,0 +1,6 @@
+{
+  "name": "ChessNova",
+  "description": "Learn, practice, and master chess with interactive lessons, local engine, and AI chess tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
